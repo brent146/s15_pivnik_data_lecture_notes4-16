@@ -23,3 +23,4 @@ Docker - Jonathan Song
   
 Capistrano - Alex Tsankov
 
+  -Great if you're doing a ton of developments
