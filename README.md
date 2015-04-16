@@ -13,3 +13,13 @@ Google Cloud - Dan Bye
   - Used to process Big Data
  
  - SQL like series
+
+
+Docker - Jonathan Song
+
+  -Containers vs VM's 
+  
+  -Docker is easy and lightweight
+  
+Capistrano - Alex Tsankov
+
